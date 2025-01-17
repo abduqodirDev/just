@@ -1,0 +1,1002 @@
+#Dasturiy xavfsizlik nima? 
++Dasturiy ta'minotning ma'lumotlarni himoya qilish va hujumlardan saqlanish imkoniyati
+-Dasturiy ta'minotni ishlatish uchun litsenziya olish jarayoni
+-Dasturiy ta'minotni yangilash imkoniyati
+-Tarmoq xavfsizligini ta'minlash
+#Dasturiy vositalar xavfsizligi qanday texnikalar orqali amalga oshiriladi? 
++Shifrlash, autentifikatsiya, ruxsatlar.
+-Faqat antiviruslar orqali,
+-Faqat tarmoqni himoyalash orqali,
+-Faqat xavfsizlik devori (firewall) orqali,
+#Autentifikatsiya qanday amalga oshiriladi? 
++Foydalanuvchining shaxsini tasdiqlash orqali
+-Foydalanuvchi qurilmasini tekshirish orqali
+-Fayllarni skanerlash orqali
+-Internet tarmog'ini monitoring qilish orqali
+#Dasturiy vositalar xavfsizligini ta'minlashda kodning qanday tahlili muhim? 
++Statik va dinamik kod tahlili
+-Faqat statik kod tahlili
+-Faqat dinamik kod tahlili
+-Kodni vizual tekshirish
+#Zararli dasturlar qanday xususiyatlarga ega? 
++Maqsadi foydalanuvchi yoki tizimga zarar yetkazish
+-Maqsadi tizimni tezlatish
+-Foydalanuvchilarning ma'lumotlarini saqlash
+-Foydalanuvchilarning ishini osonlashtirish
+#Tarmoq xavfsizligini qanday texnikalar ta'minlaydi? 
++Firewall, IDS, VPN.
+-Faqat antivirus,
+-USB portlarini bloklash,
+-Faqat serverni himoyalash,
+#Dasturiy ta'minotdagi zaifliklar qanday xavf tug‘dirishi mumkin?
++Hujumchilarning tizimga kirishiga imkon berishi
+-Dasturiy ta'minotni tezlashtirishi
+-Dasturiy vositalarni arzonlashtirishi
+-Internetga kirishni cheklashi
+#Shifrlash algoritmlari qanday vazifani bajaradi? 
++Ma'lumotlarni o‘qilmas holatga keltiradi
+-Ma'lumotlarni siqadi
+-Ma'lumotlarni o‘chiradi
+-Ma'lumotlarni tarmoq orqali uzatadi
+#Ochiq kalitli kriptografiya qanday ishlaydi?
++Ikkita kalit (ochiq va yopiq) orqali ma'lumotlarni himoyalaydi
+-Bitta kalit yordamida ma'lumotlarni shifrlaydi
+-Ma'lumotlarni siqadi
+-Ma'lumotlarni tarmoqqa joylashtiradi
+#Xavfsizlik devori (Firewall) nima?
++Tarmoq orqali kirish-chiqishni nazorat qiluvchi dastur yoki qurilma
+-Ma'lumotlarni siqish vositasi
+-Dasturlarni yuklash uchun platforma
+-Foydalanuvchilarni autentifikatsiya qilish vositasi
+#SQL injection hujumi qanday amalga oshiriladi? 
++Ma'lumotlar bazasiga zararli kod kiritish orqali
+-Fayllarni o‘zgartirish orqali
+-Tarmoqni bloklash orqali
+-Xotirani to‘ldirish orqali
+#Antivirus dasturi qanday vazifani bajaradi? 
++Zararli dasturlarni aniqlash va olib tashlash
+-Ma'lumotlarni shifrlash
+-Internet trafigini nazorat qilish
+-Fayllarni tezlashtirish
+#Phishing hujumlari qanday amalga oshiriladi? 
++Foydalanuvchilarni aldovchi saytlarga yo‘naltirish orqali
+-Tarmoqni uzib qo‘yish orqali
+-Zararli dasturlarni kompyuterga o‘rnatish orqali
+-Antivirus dasturlarini o‘chirib tashlash orqali
+#Dasturiy vositalarni yangilashning xavfsizlikka ta'siri qanday? 
++Zaifliklarni tuzatadi va himoyani oshiradi
+-Tizimni sekinlashtiradi
+-Tizimni zaif qiladi
+-Faqat vizual o‘zgarishlar kiritadi
+#Zaxira nusxalarini yaratish nimaga xizmat qiladi? 
++Ma'lumotlar yo‘qolganda ularni tiklash uchun
+-Ma'lumotlarni shifrlash uchun
+-Ma'lumotlarni tezlashtirish uchun
+-Ma'lumotlarni o‘chirish uchun
+#VPN qanday ishlaydi? 
++Foydalanuvchining tarmoqdagi ma'lumotlarini shifrlab uzatadi
+-Tarmoqni tezlashtiradi
+-Antivirus sifatida ishlaydi
+-Fayllarni siqadi
+#Xavfsizlik auditlari nimani o‘z ichiga oladi? 
++Tizimdagi xavfsizlik zaifliklarini aniqlash va hisobot berish
+-Tizimdagi ma'lumotlarni o‘chirish
+-Tizimdagi barcha dasturlarni yangilash
+-Tizimni vizual tekshirish
+#SSL/TLS nima uchun ishlatiladi? 
++Internet orqali ma'lumotlarni xavfsiz uzatish uchun
+-Ma'lumotlarni siqish uchun
+-Tarmoq tezligini oshirish uchun
+-Dasturlarni yuklab olish uchun
+#Zararli dasturiy ta'minotlarning qaysi turi tarmoqqa tarqaladi? 
++Qurtlar.
+-Rootkitlar,
+-Trojanlar,
+-Adware dasturlar,
+#Rootkitlar qanday zararli dasturlardir? 
++Foydalanuvchi yoki tizim ma'lumotlarini yashirin nazorat qilish uchun
+-Ma'lumotlarni o‘chirish uchun
+-Kompyuterni tezlashtirish uchun
+-Fayllarni siqish uchun
+#Ma'lumotlarni shifrlashning asosiy maqsadi nima?
++Maxfiylikni ta'minlash.
+-Fayllarni ko‘paytirish,
+-Kompyuterni tezlashtirish,
+-Tarmoqni o‘chirib qo‘yish,
+#Autentifikatsiya uchun eng keng tarqalgan usul qaysi?
++Foydalanuvchi ismi va parol
+-Retina skanerlash
+-Ovozni aniqlash
+-GPS ma'lumotlari
+#Xavfsizlik devori nima uchun ishlatiladi?
++Tarmoqdagi kirish-chiqish ma'lumotlarini nazorat qilish
+-Ma'lumotlarni siqish uchun
+-Foydalanuvchilarni autentifikatsiya qilish uchun
+-Tizimni tezlashtirish uchun
+#Zararli dasturlar qanday hujum qilishlari mumkin?
++Kompyuterni zararlantiruvchi dasturlar orqali
+-Internet tarmoqlarini tekshirish orqali
+-Faqat kompyuterga zarar yetkazish uchun
+-Fayllarni siqish uchun
+#SSL protokoli qanday ishlaydi?
++Ma'lumotlarni xavfsiz uzatadi.
+-Ma'lumotlarni o‘chiradi,
+-Kompyuterni himoya qiladi,
+-Foydalanuvchilarni autentifikatsiya qiladi,
+#Xavfsizlik zaifligi nima?
++Tizimdagi himoya darajasining pastligi
+-Tizimdagi fayllarni tezlashtirish
+-Foydalanuvchi ma'lumotlarini saqlash
+-Tizimni yangilash
+#Shaxsiy kalitli kriptografiya qanday amalga oshiriladi?
++Bir kalit yordamida shifrlash va deshifrlash qilinadi
+-Ikki kalit yordamida ma'lumotlarni shifrlaydi
+-Ma'lumotlarni faqat ochadi
+-Fayllarni siqadi
+#Xavfsizlik devori qanday asosiy vazifani bajaradi?
++Tarmoq orqali ma'lumotlarning o‘tishini nazorat qiladi
+-Foydalanuvchilarning tarmoqni tezlashtiradi
+-Tarmoqdagi fayllarni siqadi
+-Foydalanuvchi ma'lumotlarini o‘chirish
+#Foydalanuvchi ma'lumotlarini himoya qilishning eng samarali usuli qaysi?
++Shifrlash algoritmlaridan foydalanish
+-Tarmoqni bloklash
+-Tizimni sekinlashtirish
+-Fayllarni siqish
+#Ma'lumotlarni zahira qilish nimani ta'minlaydi?
++Ma'lumotlar yo‘qolganda ularni tiklash.
+-Fayllarni o‘chirish,
+-Foydalanuvchi ma'lumotlarini tezlashtirish,
+-Antivirusni yangilash,
+#Trojan dasturlari qanday ishlaydi?
++Zarar yetkazuvchi dastur o‘zini foydali dastur sifatida ko‘rsatadi
+-Kompyuterni tezlashtirish uchun
+-Fayllarni siqish uchun
+-Internetni tezlashtirish uchun
+#Malumotlar bazasiga hujum qilish uchun qanday texnika ishlatiladi?
++SQL injection.
+-Tarmoqni tezlashtirish,
+-Antivirusni yangilash,
+-Fayllarni arxivlash,
+#AES algoritmi nima uchun ishlatiladi?
++Ma'lumotlarni shifrlash uchun
+-Fayllarni o‘chirish uchun
+-Tizimni tezlashtirish uchun
+-Internetni bloklash uchun
+#Kiber xavfsizlikda eng asosiy muammo nima?
++Ma'lumotlar o‘g‘irlanishi va tizimga zarar yetkazilishi
+-Foydalanuvchilarni autentifikatsiya qilish
+-Tizimni yangilash
+-Fayllarni arxivlash
+#VPN tizimi qanday maqsadga xizmat qiladi?
++Xavfsiz internetga ulanishni ta'minlash.
+-Tarmoqni tezlashtirish,
+-Foydalanuvchi ma'lumotlarini shifrlash,
+-Fayllarni o‘chirish,
+#Xavfsizlik zaifliklarini qanday dasturlar aniqlaydi?
++Antivizor va IDS (Intrusion Detection System).
+-Faqat antivirus,
+-Tizimni bloklash uchun dasturlar,
+-Foydalanuvchilarni autentifikatsiya qilish uchun dasturlar,
+#Ma'lumotlarni o‘g‘irlash uchun qaysi hujum turi keng qo‘llaniladi?
++Phishing.
+-Antivirusni yangilash,
+-Tizimni sekinlashtirish,
+-Fayllarni arxivlash,
+#Kiber xavfsizlikda zaifliklarni qachon tuzatish kerak?
++Imkon qadar tezroq.
+-Faqat tizim yangilanganida,
+-Tizimni sekinlashtirganida,
+-Tizim o‘chirilganida,
+#Shaxsiy ma'lumotlarni himoya qilishda qanday kriptografiya qo‘llaniladi?
++Asimmetrik kriptografiya
+-Symmetrik kriptografiya
+-Antivirus dasturlari
+-VPN texnologiyalari
+#Kiberhujumlar qachon sodir bo‘lishi mumkin?
++Har qanday vaqtda.
+-Faqat antivirus o‘chirilganda,
+-Internetga ulanish yo‘q bo‘lganda,
+-Tizim yangilanganida,
+
+#Symmetrik shifrlashning asosiy kamchiligi nima?
++Bir xil kalit ikkala tomon uchun ishlatiladi
+-Bir kalitli tizim bo‘lmagani
+-Juda murakkabligi
+-Ma'lumotlarni tez o‘chirishi
+#Asimmetrik shifrlashning qanday afzalligi bor?
++Har bir tomonda alohida kalit ishlatiladi
+-Bir xil kalit ishlatiladi
+-Foydalanuvchilarni tezlashtiradi
+-Tarmoq xavfsizligini o‘chiradi
+#Xavfsizlik uchun dasturni statik tahlil qilish nimani anglatadi?
++Dastur kodini ishga tushirishdan oldin tekshirish
+-Faqat ishga tushgandan keyin tekshirish
+-Faqat tarmoqni himoyalash
+-Dastur kodini o‘chirish
+#Dinamik tahlil qanday amalga oshiriladi?
++Dastur ishga tushirilganda uning faoliyatini kuzatish
+-Faqat tarmoq orqali kuzatish
+-Antivirus dasturini o‘rnatish orqali
+-Dastur kodini o‘chirish orqali
+#Fayl tizimida ma'lumotlarning himoyalanishi qanday amalga oshiriladi?
++Ma'lumotlarni shifrlash orqali.
+-Faqat fayllarni o‘chirish orqali,
+-Tizimni yangilash orqali,
+-Fayllarni tezlashtirish orqali,
+#Dasturiy hujumlarning oldini olishda qanday vosita muhim hisoblanadi?
++Antivirus dasturlari
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internetni uzish
+#SQL injection hujumi qanday amalga oshiriladi?
++Ma'lumotlar bazasiga zararli SQL buyruqlar kiritish orqali
+-Faqat tizim fayllarini o‘zgartirish orqali
+-Internetdan fayllar yuklash orqali
+-Dasturlarni yangilash orqali
+#Ma'lumotlar bazasini himoyalashda qaysi texnologiya qo‘llaniladi?
++Shifrlash va autentifikatsiya.
+-Diskni tozalash,
+-Faqat operativ xotirani boshqarish,
+-Kompyuter tezligini oshirish,
+#Operatsion tizimning xavfsizligini ta'minlash uchun nima zarur?
++Doimiy yangilanish va xavfsizlik devori
+-Operatsion tizimni o‘chirish
+-Diskni formatlash
+-Dasturlarni yuklash
+#Parollarni xavfsiz saqlash uchun qanday texnologiya qo‘llaniladi?
++Xesh funksiyalari.
+-Fayllarni zaxiralash,
+-Operatsion tizimni yangilash,
+-Parollarni shifrlashsiz saqlash,
+#Xavfsizlik uchun ma'lumotlar qanday holda zahiralanadi?
++Foydalanuvchi ma'lumotlarini boshqa joyda saqlash orqali
+-Tizimni yangilash orqali
+-Diskni formatlash orqali
+-Antivirus o‘rnatish orqali
+#DDoS hujumi qanday amalga oshiriladi?
++Tarmoqni bir vaqtning o‘zida ko‘plab so‘rovlar bilan yuklash orqali
+-Faqat tarmoqni o‘chirib qo‘yish orqali
+-Antivirus dasturlarini yangilash orqali
+-Foydalanuvchi ma'lumotlarini o‘chirish orqali
+#Ma'lumotlarni himoya qilishda qanday xavfsizlik devori tizimlari ishlatiladi?
++Paketlarni filtrlaydigan xavfsizlik devorlari
+-Ma'lumotlarni o‘chirish tizimlari
+-Foydalanuvchilarni yangilash tizimlari
+-Fayllarni zaxiralash tizimlari
+#Zararli dasturlar qanday tarqaladi?
++Foydalanuvchilarga zararli dastur orqali jo‘natiladi
+-Tarmoqni o‘chirib qo‘yish orqali
+-Internetni bloklash orqali
+-Antivirus dasturini o‘rnatish orqali
+#Antivirus dasturlari nima uchun ishlatiladi?
++Zararli dasturlarni aniqlash va bartaraf etish uchun
+-Internet tarmog‘ini tezlashtirish uchun
+-Foydalanuvchilarni autentifikatsiya qilish uchun
+-Fayllarni siqish uchun
+#Xavfsizlik tahlili qanday maqsad bilan amalga oshiriladi?
++Zaifliklarni aniqlash va ularni tuzatish uchun
+-Tizimni o‘chirish uchun
+-Foydalanuvchi parolini o‘zgartirish uchun
+-Fayllarni arxivlash uchun
+#Ma'lumotlarni uzatishda qanday xavf mavjud?
++Ma'lumotlarni yo‘qotish yoki ularni o‘g‘irlash
+-Tarmoqni tezlashtirish
+-Kompyuterning xotirasini oshirish
+-Operatsion tizimni o‘chirish
+#Foydalanuvchi autentifikatsiyasi qanday amalga oshiriladi?
++Foydalanuvchi ismi va parol orqali.
+-Fayllarni o‘chirish orqali,
+-Operatsion tizimni yangilash orqali,
+-Tarmoqni o‘chirish orqali,
+#Fayllarni shifrlashning asosiy maqsadi nima?
++Ma'lumotlarni maxfiy saqlash
+-Fayllarni tezlashtirish
+-Tizimni sekinlashtirish
+-Internet tarmog‘ini o‘chirish
+#Tarmoq xavfsizligini qanday vositalar bilan ta'minlash mumkin?
++Xavfsizlik devorlari va VPN texnologiyalari orqali
+-Tarmoqni o‘chirish orqali
+-Fayllarni zaxiralash orqali
+-Foydalanuvchilarni yangilash orqali
+#Veb-sayt xavfsizligi uchun qaysi texnologiya muhim hisoblanadi?
++SSL sertifikati.
+-Fayllarni yuklash,
+-Operatsion tizimni yangilash,
+-Tarmoqni o‘chirish,
+#Zararli dasturlardan himoyalanish uchun nima qilish kerak?
++Antivirus dasturlarini o‘rnatish
+-Fayllarni zaxiralash
+-Tizimni yangilash
+-Tarmoqni o‘chirish
+#VPN texnologiyasi nima uchun ishlatiladi?
++Ma'lumotlarni himoyalash uchun.
+-Kompyuterning tezligini oshirish uchun,
+-Operatsion tizimni yangilash uchun,
+-Tarmoqni o‘chirish uchun,
+#Ma'lumotlarni tiklashda qanday vosita qo‘llaniladi?
++Zaxira nusxalardan tiklash.
+-Internetni o‘chirib qo‘yish,
+-Fayllarni zaxiralash,
+-Tizimni yangilash,
+#Veb-sayt hujumlarini qanday kamaytirish mumkin?
++Xavfsizlik devorlari o‘rnatish orqali.
+-Diskni formatlash orqali,
+-Kompyuter tezligini oshirish orqali,
+-Fayllarni o‘chirish orqali,
+#Zararli dasturlar qanday tarzda aniqlanadi?
++Antivirus dasturlari yordamida
+-Tarmoqni o‘chirish orqali
+-Fayllarni o‘chirish orqali
+-Internetdan foydalanish orqali
+#Ma'lumotlar bazasi hujumlarini oldini olishda nima yordam beradi?
++SQL injection himoyasi.
+-Fayllarni saqlash,
+-Kompyuter xotirasini oshirish,
+-Operatsion tizimni yangilash,
+#Xaker hujumlarini oldini olishda nima zarur?
++Xavfsizlik devori o‘rnatish.
+-Tarmoqni o‘chirish,
+-Internetni uzish,
+-Kompyuter tizimini yangilash,
+#Ma'lumotlar xavfsizligini ta'minlash uchun nima zarur?
++Shifrlash texnologiyalari
+-Fayllarni saqlash
+-Diskni formatlash
+-Internetni o‘chirish
+#Kompyuter tizimini zaifliklardan himoya qilish uchun nima zarur?
++Doimiy yangilanish.
+-Diskni formatlash,
+-Fayllarni zaxiralash,
+-Tizimni o‘chirish,
+#Foydalanuvchi ma'lumotlarini himoya qilish uchun qanday choralar ko‘riladi?
++Parollarni shifrlash.
+-Tarmoqni o‘chirish,
+-Fayllarni saqlash,
+-Diskni formatlash,
+#Zararli dasturlarni bartaraf etishda qanday vosita yordam beradi?
++Antivirus dasturlari.
+-Operatsion tizimni yangilash,
+-Internet tarmog‘ini uzish,
+-Fayllarni zaxiralash,
+#Xavfsizlik tahlili qanday vositalar yordamida amalga oshiriladi?
++Zaifliklarni skanerlash vositalari
+-Tarmoqni o‘chirish
+-Fayllarni saqlash
+-Kompyuter tizimini formatlash
+#Foydalanuvchi autentifikatsiyasi qanday texnologiya yordamida amalga oshiriladi?
++Biometrik autentifikatsiya
+-Internetdan foydalanish
+-Fayllarni zaxiralash
+-Diskni formatlash
+#Ma'lumotlarni himoya qilishda shifrlashning qanday turi muhim?
++Asimmetrik shifrlash.
+-Fayllarni o‘chirish,
+-Internet tarmog‘ini uzish,
+-Tizimni yangilash,
+#Kompyuter tizimi xavfsizligini qanday choralari bilan oshirish mumkin?
++Xavfsizlik devorlari va yangilanishlar
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Internetdan foydalanish
+#Zararli dastur bilan ishlovchi foydalanuvchi kompyuterini qanday qilib himoya qilishi mumkin?
++Antivirus dasturini yangilab turish
+-Tarmoqni o‘chirish
+-Fayllarni zaxiralash
+-Kompyuter xotirasini oshirish
+#SSL sertifikati nima uchun ishlatiladi?
++Ma'lumotlarni himoyalash uchun.
+-Diskni formatlash uchun,
+-Fayllarni o‘chirish uchun,
+-Operatsion tizimni yangilash uchun,
+#Shaxsiy ma'lumotlarni himoya qilishda qanday texnologiyalar qo‘llaniladi?
++Ma'lumotlarni shifrlash va autentifikatsiya
+-Tarmoqni o‘chirish
+-Diskni formatlash
+-Internetdan foydalanish
+#Kompyuter tarmog‘i xavfsizligini qanday vosita bilan ta'minlash mumkin?
++VPN texnologiyasi.
+-Fayllarni o‘chirish,
+-Kompyuter tezligini oshirish,
+-Diskni formatlash,
+#Internet xavfsizligini oshirishda qanday texnologiya muhim hisoblanadi?
++Xavfsizlik devorlari.
+-Fayllarni zaxiralash,
+-Diskni formatlash,
+-Internet tarmog‘ini uzish,
+#Zararli dastur tarqalishini oldini olish uchun qanday choralar ko‘riladi?
++Antivirus dasturlarini yangilash
+-Tizimni o‘chirish
+-Fayllarni o‘chirish
+-Internetdan foydalanish
+#Parollarni xavfsiz saqlash uchun qanday choralar ko‘riladi?
++Parollarni shifrlash.
+-Diskni formatlash,
+-Fayllarni saqlash,
+-Kompyuter tizimini yangilash,
+#Fayl tizimlarining xavfsizligini ta'minlashda qanday vositalar ishlatiladi?
++Fayllarni shifrlash.
+-Internet tarmog‘ini uzish,
+-Diskni formatlash,
+-Fayllarni saqlash,
+#DDoS hujumlaridan himoyalanishda qanday choralar ko‘riladi?
++Xavfsizlik devorlari o‘rnatish.
+-Diskni formatlash,
+-Fayllarni o‘chirish,
+-Kompyuter tizimini yangilash,
+#Zararli dastur tarqatilishining oldini olishda qaysi texnologiya yordam beradi?
++Antivirus dasturlarini o‘rnatish
+-Fayllarni zaxiralash
+-Kompyuter xotirasini oshirish
+-Tizimni formatlash
+#Shaxsiy ma'lumotlarni himoya qilishda qaysi chora ko‘rilishi kerak?
++Ma'lumotlarni shifrlash
+-Diskni formatlash
+-Internetdan uzilish
+-Fayllarni saqlash
+#Zaxira nusxalari nima uchun zarur?
++Ma'lumotlarni tiklash uchun
+-Fayllarni o‘chirish uchun
+-Diskni tozalash uchun
+-Internetni yangilash uchun
+#Xavfsizlik sertifikatlari qaysi maqsadda qo‘llaniladi?
++Ma'lumotlarni shifrlash.
+-Diskni formatlash,
+-Fayllarni saqlash,
+-Kompyuter tezligini oshirish,
+#Kompyuter xavfsizligini oshirishda qanday vosita qo‘llaniladi?
++Xavfsizlik devori o‘rnatish.
+-Tarmoqni o‘chirish,
+-Fayllarni o‘chirish,
+-Kompyuter xotirasini oshirish,
+#Tarmoq xavfsizligini ta'minlashda qanday texnologiya ishlatiladi?
++VPN texnologiyasi.
+-Kompyuter xotirasini oshirish,
+-Diskni formatlash,
+-Fayllarni zaxiralash,
+#Xaker hujumlariga qarshi qanday choralar ko‘riladi?
++Xavfsizlik devorlari o‘rnatish
+-Diskni formatlash
+-Fayllarni saqlash
+-Internetni o‘chirish
+#Foydalanuvchi ma'lumotlarini saqlashda qanday texnologiyalar ishlatiladi?
++Shifrlash va autentifikatsiya
+-Internetdan uzilish
+-Fayllarni o‘chirish
+-Diskni formatlash
+#Kompyuter viruslariga qarshi qanday vosita yordam beradi?
++Antivirus dasturlari.
+-Internetni o‘chirish,
+-Fayllarni zaxiralash,
+-Diskni formatlash,
+#Axborot xavfsizligini ta'minlashda qanday texnologiyalar qo‘llaniladi?
++Ma'lumotlarni shifrlash.
+-Fayllarni o‘chirish,
+-Kompyuter tizimini yangilash,
+-Diskni tozalash,
+#Zaxira nusxalari qachon muhim hisoblanadi?
++Ma'lumotlarni tiklashda.
+-Fayllarni zaxiralashda,
+-Diskni formatlashda,
+-Internetdan foydalanishda,
+#Ma'lumotlar bazasi xavfsizligi qaysi texnologiyalar bilan ta'minlanadi?
++SQL injection himoyasi.
+-Internet tarmog‘ini uzish,
+-Fayllarni zaxiralash,
+-Kompyuter xotirasini oshirish,
+#Zararli dasturlarni bartaraf etishning asosiy usuli qaysi?
++Antivirus dasturlarini o‘rnatish
+-Fayllarni saqlash
+-Diskni formatlash
+-Internetdan foydalanish
+#DDoS hujumlaridan qanday qilib himoyalanish mumkin?
++Xavfsizlik devorlari o‘rnatish.
+-Tarmoqni o‘chirish,
+-Fayllarni o‘chirish,
+-Kompyuter tizimini yangilash,
+#Ma'lumotlar xavfsizligini qanday qilib oshirish mumkin?
++Shifrlash texnologiyalarini qo‘llash
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Internetdan foydalanish
+#Fayllarni shifrlash nima uchun muhim?
++Ma'lumotlarni himoya qilish uchun.
+-Fayllarni zaxiralash uchun,
+-Diskni tozalash uchun,
+-Kompyuter tizimini yangilash uchun,
+#Zararli dastur hujumlarini oldini olish uchun nima qilish kerak?
++Antivirus dasturlarini o‘rnatish
+-Fayllarni o‘chirish
+-Kompyuter xotirasini oshirish
+-Internet tarmog‘ini uzish
+#Parollarni himoyalashda qaysi texnologiya qo‘llaniladi?
++Shifrlash.
+-Fayllarni saqlash,
+-Diskni formatlash,
+-Tarmoqni o‘chirish,
+#Axborot xavfsizligini oshirishda qanday texnologiyalar muhim?
++Xavfsizlik devorlari va yangilanishlar
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Zararli dastur bilan ishlashda qanday chora ko‘rilishi kerak?
++Antivirus dasturlarini yangilash
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Kompyuter tizimini yangilash
+#Internet xavfsizligini oshirishda qanday texnologiya qo‘llaniladi?
++Xavfsizlik devorlari o‘rnatish.
+-Diskni formatlash,
+-Fayllarni saqlash,
+-Kompyuter xotirasini oshirish,
+#Ma'lumotlarni shifrlashning qaysi turi muhim hisoblanadi?
++Asimmetrik shifrlash
+-Fayllarni o‘chirish
+-Internetdan uzilish
+-Diskni formatlash
+#Kompyuter tizimi zaifliklarini qanday vosita bilan aniqlash mumkin?
++Zaifliklarni skanerlash dasturlari
+-Fayllarni o‘chirish
+-Kompyuter tizimini yangilash
+-Internet tarmog‘ini uzish
+#Parol xavfsizligini oshirish uchun qaysi texnologiya yordam beradi?
++Biometrik autentifikatsiya
+-Diskni formatlash
+-Fayllarni zaxiralash
+-Internet tarmog‘ini uzish
+#Foydalanuvchi ma'lumotlarini shifrlash nima uchun muhim?
++Ma'lumotlarni himoya qilish uchun.
+-Fayllarni saqlash uchun,
+-Diskni formatlash uchun,
+-Kompyuter tizimini yangilash uchun,
+#Tizim xavfsizligini oshirish uchun qanday texnologiyalar qo‘llaniladi?
++VPN va xavfsizlik devorlari
+-Fayllarni o‘chirish
+-Internetdan foydalanish
+-Diskni formatlash
+#Antivirus dasturlarining asosiy vazifasi nima?
++Zararli dasturlarni aniqlash va yo‘q qilish
+-Fayllarni saqlash
+-Diskni zaxiralash
+-Internet tarmog‘ini uzish
+#Zararli dasturlardan qanday himoyalanish mumkin?
++Antivirus dasturlarini yangilash
+-Diskni formatlash
+-Fayllarni o‘chirish
+-Internetdan uzilish
+#Shifrlash texnologiyalarining asosiy maqsadi nima?
++Ma'lumotlarni himoya qilish.
+-Diskni formatlash,
+-Fayllarni zaxiralash,
+-Kompyuter tizimini yangilash,
+#DDoS hujumlarining oldini olish uchun qaysi texnologiya ishlatiladi?
++Xavfsizlik devorlari.
+-Diskni zaxiralash,
+-Internet tarmog‘ini uzish,
+-Fayllarni o‘chirish,
+#Xavfsizlik sertifikatlari nima uchun zarur?
++Ma'lumotlarni autentifikatsiya qilish uchun
+-Fayllarni saqlash uchun
+-Diskni formatlash uchun
+-Kompyuter tizimini yangilash uchun
+#Tarmoq xavfsizligini ta'minlashda VPN texnologiyasi qanday yordam beradi?
++Ma'lumotlarni shifrlash orqali himoyalash
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Shaxsiy ma'lumotlar xavfsizligi uchun qanday chora ko‘riladi?
++Ma'lumotlarni shifrlash va parollarni mustahkamlash
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Kompyuter tizimini yangilash
+#Zaxira nusxalari qachon foydali bo‘ladi?
++Ma'lumotlar yo‘qolganda ularni tiklash uchun
+-Fayllarni saqlashda
+-Diskni formatlashda
+-Internetdan foydalanishda
+#Axborot xavfsizligi qanday yo‘l bilan ta'minlanadi?
++Shifrlash va autentifikatsiya yordamida
+-Fayllarni zaxiralash yordamida
+-Internet tarmog‘ini uzish yordamida
+-Diskni formatlash yordamida
+#Ma'lumotlar shifrlanishi qaysi texnologiya bilan ta'minlanadi?
++Shifrlash algoritmlari yordamida
+-Fayllarni saqlash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Tarmoqda uzatilayotgan ma'lumotlarni qanday qilib himoyalash mumkin?
++Ma'lumotlarni shifrlash orqali.
+-Diskni formatlash orqali,
+-Fayllarni o‘chirish orqali,
+-Internet tarmog‘ini uzish orqali,
+#Kompyuter xavfsizligini oshirish uchun qanday dasturiy ta'minot kerak?
++Antivirus va xavfsizlik devorlari
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Kompyuter xotirasini oshirish
+#Axborot tizimlarining asosiy xavfsizlik choralari nima?
++Ma'lumotlarni shifrlash va xavfsizlik devorlari
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Kompyuter tizimini yangilash
+#Kompyuter viruslariga qarshi qanday chora ko‘rilishi kerak?
++Antivirus dasturlarini yangilash
+-Diskni formatlash
+-Fayllarni o‘chirish
+-Internet tarmog‘ini uzish
+#Tarmoq xavfsizligini ta'minlashda qanday texnologiyalar ishlatiladi?
++VPN va xavfsizlik devorlari
+-Fayllarni saqlash
+-Diskni zaxiralash
+-Internet tarmog‘ini uzish
+#Fayllarni shifrlash texnologiyasi nima uchun muhim?
++Ma'lumotlarni himoya qilish uchun
+-Fayllarni zaxiralash uchun
+-Diskni formatlash uchun
+-Internet tarmog‘ini uzish uchun
+#Xavfsizlik devorlari nima uchun zarur?
++Tarmoq hujumlaridan himoya qilish uchun
+-Diskni formatlash uchun
+-Fayllarni saqlash uchun
+-Internetdan foydalanish uchun
+#Kompyuter tizimi xavfsizligini oshirishda qanday chora ko‘riladi?
++Antivirus dasturlari va xavfsizlik devorlari
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#DDoS hujumlari qaysi texnologiya bilan bartaraf etiladi?
++Xavfsizlik devorlari yordamida.
+-Diskni formatlash yordamida,
+-Fayllarni o‘chirish yordamida,
+-Internet tarmog‘ini uzish yordamida,
+#Axborot xavfsizligini ta'minlashda qanday texnologiyalar ishlatiladi?
++Shifrlash va autentifikatsiya texnologiyalari.
+-Fayllarni zaxiralash texnologiyalari,
+-Diskni formatlash texnologiyalari,
+-Kompyuter tizimini yangilash texnologiyalari,
+#Internet tarmog‘ida uzatilayotgan ma'lumotlarni qanday qilib himoya qilish mumkin?
++Shifrlash texnologiyalari yordamida
+-Fayllarni saqlash orqali
+-Diskni formatlash orqali
+-Internetdan uzilish orqali
+#Zararli dasturlardan himoyalanishda qanday texnologiyalar yordam beradi?
++Antivirus dasturlari va xavfsizlik devorlari
+-Fayllarni o‘chirish va saqlash
+-Diskni formatlash va zaxiralash
+-Internet tarmog‘ini uzish
+#Kompyuter viruslariga qarshi qanday dasturiy ta'minot yordam beradi?
++Antivirus dasturlari.
+-Fayllarni zaxiralash dasturlari,
+-Diskni formatlash dasturlari,
+-Internet tarmog‘ini uzish dasturlari,
+#Axborot tizimlarining xavfsizligini ta'minlashda qanday texnologiyalar qo‘llaniladi?
++Shifrlash va xavfsizlik devorlari.
+-Fayllarni o‘chirish va zaxiralash,
+-Diskni formatlash va yangilash,
+-Kompyuter tizimini yangilash va saqlash,
+#Shaxsiy ma'lumotlarni himoya qilish uchun qanday texnologiyalar ishlatiladi?
++Shifrlash va parolni mustahkamlash
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Xavfsizlik teshiklarini yopish uchun nima qilish kerak?
++Dasturlarni va tizimni yangilash
+-Fayllarni saqlash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Axborot xavfsizligini ta'minlashda xavfsizlik devorlarining roli nima?
++Tarmoqni himoya qilish.
+-Fayllarni o‘chirish,
+-Diskni formatlash,
+-Internet tarmog‘ini uzish,
+#Zaxira nusxalar nima uchun zarur?
++Ma'lumotlarni qayta tiklash uchun
+-Fayllarni o‘chirish uchun
+-Diskni formatlash uchun
+-Internetdan uzilish uchun
+#Antivirus dasturlari qanday ishlaydi?
++Zararli dasturlarni aniqlab, ularni yo‘q qiladi
+-Fayllarni zaxiralaydi
+-Diskni formatlaydi
+-Internet tarmog‘ini uzadi
+#Xavfsizlik tizimlarini sinash uchun qaysi usul qo‘llaniladi?
++Penetratsion testlash
+-Fayllarni saqlash
+-Diskni formatlash
+-Internetdan uzilish
+#Tarmoq xavfsizligini qanday oshirish mumkin?
++VPN va xavfsizlik devorlari yordamida
+-Diskni zaxiralash orqali
+-Fayllarni o‘chirish orqali
+-Internet tarmog‘ini uzish orqali
+#Axborot tizimlarida parolni mustahkamlash nima uchun zarur?
++Ma'lumotlarni himoya qilish uchun.
+-Fayllarni zaxiralash uchun,
+-Diskni formatlash uchun,
+-Kompyuter tizimini yangilash uchun,
+#DDoS hujumlari qanday qilib aniqlanadi?
++Tarmoq trafigini tahlil qilish orqali
+-Fayllarni o‘chirish orqali
+-Diskni formatlash orqali
+-Internet tarmog‘ini uzish orqali
+#Shifrlash texnologiyalari qayerda ishlatiladi?
++Ma'lumotlarni himoya qilishda
+-Fayllarni saqlashda
+-Diskni formatlashda
+-Internetdan foydalanishda
+#Xavfsizlik kameralarini tarmoq orqali boshqarishda qanday texnologiyalar ishlatiladi?
++VPN va xavfsizlik devorlari
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Parolni mustahkamlashning asosiy usullari nimalardan iborat?
++Kompleks parol yaratish va ikki faktorli autentifikatsiya
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Shaxsiy ma'lumotlar qanday qilib himoya qilinadi?
++Shifrlash va xavfsizlik sertifikatlari yordamida
+-Fayllarni zaxiralash orqali
+-Diskni formatlash orqali
+-Internetdan foydalanish orqali
+#Kompyuter tizimlarining xavfsizligi uchun qanday dasturiy ta'minot kerak?
++Antivirus va xavfsizlik devorlari
+-Fayllarni saqlash dasturi
+-Diskni formatlash dasturi
+-Internetdan foydalanish dasturi
+#Axborot tizimlarini himoya qilishda qanday chora-tadbirlar qo‘llaniladi?
++Xavfsizlik devorlari va shifrlash texnologiyalari.
+-Fayllarni o‘chirish va zaxiralash,
+-Diskni formatlash va yangilash,
+-Kompyuter tizimini yangilash va parolni o‘zgartirish,
+#Antivirus dasturlarini doimiy yangilab turish nima uchun zarur?
++Yangi zararli dasturlarga qarshi himoyani ta'minlash uchun
+-Fayllarni zaxiralash uchun
+-Diskni formatlash uchun
+-Internetdan foydalanish uchun
+#Shifrlash texnologiyalari qanday turlarga bo‘linadi?
++Simmetrik va assimetrik shifrlash.
+-Fayllarni o‘chirish va zaxiralash,
+-Diskni formatlash va yangilash,
+-Internetdan foydalanish va zaxiralash,
+#Axborot xavfsizligini buzish urinishlarini qanday aniqlash mumkin?
++Tizim loglarini tahlil qilish orqali
+-Fayllarni o‘chirish orqali
+-Diskni formatlash orqali
+-Internet tarmog‘ini uzish orqali
+#Zararli dasturlardan himoyalanishda qanday dasturiy ta'minot ishlatiladi?
++Antivirus dasturlari.
+-Fayllarni saqlash dasturi,
+-Diskni formatlash dasturi,
+-Internetdan foydalanish dasturi,
+#Kompyuter tizimlarini xavfsizlik nuqtayi nazaridan qanday himoya qilish mumkin?
++Antivirus va xavfsizlik devorlari yordamida
+-Fayllarni o‘chirish yordamida
+-Diskni formatlash yordamida
+-Internet tarmog‘ini uzish yordamida
+#VPN texnologiyasi tarmoq xavfsizligini qanday ta'minlaydi?
++Tarmoq ma'lumotlarini shifrlash orqali
+-Fayllarni saqlash orqali
+-Diskni formatlash orqali
+-Internetdan uzilish orqali
+#Xavfsizlik teshiklarini aniqlashda qanday texnikalar qo‘llaniladi?
++Penetratsion testlash va tarmoq tahlili.
+-Fayllarni zaxiralash va saqlash,
+-Diskni formatlash va yangilash,
+-Kompyuter tizimini yangilash va parolni o‘zgartirish,
+#DDoS hujumlariga qarshi qanday chora ko‘riladi?
++Xavfsizlik devorlari va tarmoq monitoringi
+-Fayllarni saqlash va zaxiralash
+-Diskni formatlash va yangilash
+-Internet tarmog‘ini uzish va tiklash
+#Zaxira nusxalar nima uchun muhim?
++Ma'lumotlarni tiklash uchun.
+-Fayllarni o‘chirish uchun,
+-Diskni formatlash uchun,
+-Internetdan foydalanish uchun,
+#Ma'lumotlar xavfsizligini ta'minlashda qanday texnologiyalar qo‘llaniladi?
++Shifrlash va autentifikatsiya texnologiyalari.
+-Fayllarni o‘chirish va saqlash,
+-Diskni formatlash va yangilash,
+-Kompyuter tizimini yangilash va parolni mustahkamlash,
+#Parolni mustahkamlash qanday himoya chorasi hisoblanadi?
++Ma'lumotlarni himoya qilishda asosiy chora
+-Fayllarni o‘chirish uchun
+-Diskni formatlash uchun
+-Internetdan uzilish uchun
+#Xavfsizlik devorining asosiy vazifasi nima?
++Tarmoq hujumlaridan himoya qilish
+-Fayllarni saqlash
+-Diskni formatlash
+-Internetdan foydalanish
+#Antivirus dasturlari qanday zararli dasturlarni aniqlaydi?
++Viruslar, troyanlar va boshqa zararli dasturlarni
+-Fayllarni zaxiralash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Tarmoq xavfsizligini oshirish uchun qanday choralar ko‘riladi?
++Xavfsizlik devorlari va VPN
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Dasturlarni yangilash nima uchun zarur?
++Xavfsizlik zaifliklarini yopish uchun
+-Fayllarni saqlash uchun
+-Diskni formatlash uchun
+-Internetdan uzilish uchun
+#Kiberxavfsizlikni ta’minlashda qaysi usullar qo‘llaniladi?
++Shifrlash va autentifikatsiya
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internetdan uzilish
+#Tizimning xavfsizligini saqlash uchun foydalanuvchi qanday choralar ko‘rishi kerak?
++Kuchli parol yaratish va dasturlarni yangilab turish
+-Fayllarni saqlash
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Axborot xavfsizligi tizimlari qanday turlarga bo‘linadi?
++Tarmoq xavfsizligi va ma'lumotlarni himoya qilish tizimlari
+-Fayllarni zaxiralash va saqlash tizimlari
+-Diskni formatlash tizimlari
+-Internetdan foydalanish tizimlari
+#Zaxiralash strategiyalari qayerda qo‘llaniladi?
++Ma'lumotlarni tiklash uchun.
+-Fayllarni o‘chirish uchun,
+-Diskni formatlash uchun,
+-Internetdan foydalanish uchun,
+#Kiberhujumlarga qarshi qanday dasturiy ta'minotlar mavjud?
++Antivirus va xavfsizlik devorlari.
+-Fayllarni saqlash dasturlari,
+-Diskni formatlash dasturlari,
+-Internet tarmog‘ini uzish dasturlari,
+#VPN texnologiyasi qayerda qo‘llaniladi?
++Tarmoqda ma'lumotlarni xavfsiz uzatish uchun
+-Fayllarni saqlash uchun
+-Diskni formatlash uchun
+-Internetdan uzilish uchun
+#Xavfsizlik tekshiruvlarini amalga oshirishda qaysi vositalar ishlatiladi?
++Penetratsion testlar va tizim monitoringi
+-Fayllarni o‘chirish va zaxiralash
+-Diskni formatlash va yangilash
+-Kompyuter tizimini yangilash
+#Axborot xavfsizligini buzish urinishlari qanday tahlil qilinadi?
++Loglarni tekshirish orqali.
+-Fayllarni saqlash orqali,
+-Diskni formatlash orqali,
+-Internetdan uzilish orqali,
+#Axborot xavfsizligida xavf-xatarlarni qanday boshqarish mumkin?
++Xavflarni baholash va xavfsizlik chora-tadbirlarini amalga oshirish orqali
+-Fayllarni saqlash va zaxiralash orqali
+-Diskni formatlash orqali
+-Internetdan uzilish orqali
+#Axborot xavfsizligini ta’minlashda qaysi hujjatlar kerak bo‘ladi?
++Xavfsizlik siyosatlari va standartlar.
+-Fayllarni o‘chirish hujjatlari,
+-Diskni formatlash ma'lumotlari,
+-Internet tarmog‘idan foydalanish qoidalari,
+#Xavfsizlik teshiklarini yopish uchun dasturlar qanday yangilanadi?
++Xavfsizlik yamalarini o‘rnatish orqali
+-Fayllarni saqlash orqali
+-Diskni formatlash orqali
+-Internetdan uzilish orqali
+#Shaxsiy ma'lumotlarni himoya qilish qanday usullari mavjud?
++Shifrlash va parollarni mustahkamlash
+-Fayllarni saqlash va zaxiralash
+-Diskni formatlash va yangilash
+-Internetdan foydalanish
+#Axborot xavfsizligini ta'minlash uchun qanday chora-tadbirlar qo‘llaniladi?
++Xavfsizlik devorlari va shifrlash texnologiyalari
+-Fayllarni o‘chirish va saqlash
+-Diskni formatlash va yangilash
+-Internet tarmog‘idan foydalanish
+#Tarmoq xavfsizligi nima uchun muhim?
++Ma'lumotlar o‘g‘irlanishining oldini olish uchun
+-Fayllarni saqlash uchun
+-Diskni formatlash uchun
+-Internetdan uzilish uchun
+#Antivirus dasturini yangilab turish nima uchun zarur?
++Yangi zararli dasturlardan himoya qilish uchun
+-Fayllarni zaxiralash uchun
+-Diskni formatlash uchun
+-Internet tarmog‘idan uzilish uchun
+#Parolni himoya qilishning eng yaxshi usuli nima?
++Kompleks parol yaratish va ikki faktorli autentifikatsiyani qo‘llash
+-Fayllarni saqlash va zaxiralash
+-Diskni formatlash va yangilash
+-Internetdan foydalanish
+#Axborot xavfsizligini ta’minlash uchun qanday dasturiy vositalar qo‘llaniladi?
++Antivirus, xavfsizlik devorlari va shifrlash texnologiyalari
+-Fayllarni saqlash va zaxiralash
+-Diskni formatlash va yangilash
+-Kompyuter tizimini yangilash va qayta tiklash
+#Xavfsizlik zaifliklarini qanday aniqlash mumkin?
++Tarmoq trafigini tahlil qilish va loglarni tekshirish orqali
+-Fayllarni o‘chirish orqali
+-Diskni formatlash orqali
+-Internet tarmog‘ini uzish orqali
+#Zaxira nusxalarni doimiy yaratish nima uchun zarur?
++Ma'lumotlarni yo‘qotish xavfidan saqlanish uchun
+-Fayllarni saqlash uchun
+-Diskni formatlash uchun
+-Internetdan foydalanish uchun
+#Kiberxavfsizlikni ta’minlashda qanday usullar qo‘llaniladi?
++Shifrlash, xavfsizlik devorlari va autentifikatsiya
+-Fayllarni saqlash va zaxiralash
+-Diskni formatlash va yangilash
+-Internet tarmog‘ini uzish va tiklash
+#Shaxsiy ma'lumotlarni o‘g‘irlanishidan himoya qilish uchun nima qilish kerak?
++Kuchli parollar yaratish va ikki faktorli autentifikatsiyani yoqish
+-Fayllarni o‘chirish va zaxiralash
+-Diskni formatlash va yangilash
+-Internetdan foydalanish
+#Axborot tizimlarini himoya qilishda xavfsizlik siyosatlari qanday rol o‘ynaydi?
++Xavfsizlik choralarini belgilashda asosiy hujjat hisoblanadi
+-Fayllarni saqlash va zaxiralashda rol o‘ynaydi
+-Diskni formatlash va yangilashda rol o‘ynaydi
+-Internet tarmog‘idan foydalanishda qo‘llaniladi
+#Axborot xavfsizligini buzish urinishlarini qanday oldini olish mumkin?
++Xavfsizlik tizimlarini doimiy yangilash va monitoring qilish orqali
+-Fayllarni o‘chirish va zaxiralash orqali
+-Diskni formatlash orqali
+-Internet tarmog‘idan uzilish orqali
+#Kiberhujumlardan himoyalanishda qanday dasturiy ta'minot muhim hisoblanadi?
++Antivirus va xavfsizlik devorlari
+-Fayllarni saqlash dasturi
+-Diskni formatlash dasturi
+-Internetdan foydalanish dasturi
+#Shifrlash texnologiyasining asosiy vazifasi nima?
++Ma'lumotlarni o‘g‘irlanishdan himoya qilish
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internetdan foydalanish
+#Xavfsizlik kameralarining tarmoq orqali boshqarilishi qaysi texnologiyaga tayanadi?
++VPN va shifrlash.
+-Fayllarni saqlash,
+-Diskni formatlash,
+-Internet tarmog‘ini uzish,
+#Antivirus dasturlarining samaradorligini qanday oshirish mumkin?
++Dasturiy ta'minotni yangilab turish orqali
+-Fayllarni o‘chirish orqali
+-Diskni formatlash orqali
+-Internet tarmog‘ini uzish orqali
+#Shaxsiy kompyuterlarda xavfsizlikni qanday oshirish mumkin?
++Parolni kuchliroq qilish va xavfsizlik devorlarini faollashtirish orqali
+-Fayllarni zaxiralash orqali
+-Diskni formatlash orqali
+-Internetdan foydalanish orqali
+#Axborot xavfsizligida autentifikatsiyaning asosiy maqsadi nima?
++Foydalanuvchini tasdiqlash
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internetdan foydalanish
+#Zaxira nusxalarini yaratishning eng yaxshi usuli nima?
++Bulutli saqlash xizmatidan foydalanish
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Kompyuter tizimlarida shifrlash qanday amallar uchun ishlatiladi?
++Ma'lumotlarni o‘g‘irlanishdan himoya qilish uchun
+-Fayllarni saqlash uchun
+-Diskni formatlash uchun
+-Internetdan foydalanish uchun
+#Xavfsizlik kameralarini boshqarishda qanday xavfsizlik texnologiyalari qo‘llaniladi?
++VPN va xavfsizlik devorlari.
+-Fayllarni saqlash va zaxiralash,
+-Diskni formatlash va yangilash,
+-Internet tarmog‘ini uzish,
+#Shaxsiy ma'lumotlarni himoya qilishda qanday texnologiyalar ishlatiladi?
++Shifrlash va autentifikatsiya texnologiyalari
+-Fayllarni o‘chirish va saqlash
+-Diskni formatlash va yangilash
+-Internetdan foydalanish va zaxiralash
+#Kuchli parollar yaratishda qanday qoida qo‘llaniladi?
++Parol uzunligi va murakkabligini oshirish
+-Fayllarni o‘chirish
+-Diskni formatlash
+-Internet tarmog‘ini uzish
+#Tizim xavfsizligi uchun qanday dasturlar muhim hisoblanadi?
++Antivirus va xavfsizlik devorlari
+-Fayllarni saqlash dasturi
+-Diskni formatlash dasturi
+-Internetdan foydalanish dasturi
+
